@@ -92,7 +92,7 @@ Através desta aplicação, será possível realizar a construção de código H
 ### Antes de começar a desenvolver
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-010-b-project-lessons-learned.git`.
+  * `git clone git@github.com:tryber/sd-010-b-project-lessons-learned.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-010-b-project-lessons-learned`
 
