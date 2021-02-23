@@ -16,7 +16,7 @@ text-align: center;
 }
 
 #minha_foto{
-    margin-top: 110px;
+    margin-top: 160px;
     margin-left: 6px;
     position:unset;
     height: 100px;
@@ -30,5 +30,11 @@ text-align: center;
 }
 
 #licoes_a_aprender{
+
+}
+
+.nave-style ul{
+    position:unset;
+    display: inline-block;
 
 }
