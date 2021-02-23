@@ -52,7 +52,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 Neste projeto, você será capaz de:
 
 * Utiizar _HTML_ para construir páginas WEB.
-* Utilizar _HTML_ semântico para tornar sua páigna mais acessível e melhor ranqueada.
+* Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
 * Utilizar _CSS_ para adicionar estilo e posicionar elementos.
 
 ---
