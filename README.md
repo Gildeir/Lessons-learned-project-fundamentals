@@ -172,7 +172,7 @@ Após clonar o projeto, você deverá criar os arquivos **index.html** e **style
 
 Você é livre para adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a Pessoa Instrutora que te acompanha.
 
-Lembre-se que sua página deverá connter semântica adequada e para isso verifique se sua página está aprovada no [achecker](https://achecker.ca/checker/index.php).
+Lembre-se que sua página deverá conter semântica adequada e para isso verifique se sua página está aprovada no [achecker](https://achecker.ca/checker/index.php).
 
 
 ### Avaliador automático
