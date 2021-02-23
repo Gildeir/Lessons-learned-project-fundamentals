@@ -18,14 +18,12 @@ text-align: center;
 #minha_foto{
     margin-top: 110px;
     margin-left: 6px;
-    position:unset
+    position:unset;
     height: 100px;
     width: 100px;
     display: block;
        
 }
-
-
 
 #licoes_aprendidas{
 
