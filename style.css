@@ -1,15 +1,24 @@
 
 body{
     background-color: rgb(253,251,251);
+    margin:auto
 }
 
 #cabeçalho{
-    background-color: grey;
+    background-color: green;
     position: fixed;
     top: 0px;
+    width: 100%;
 }
 
 #titulo{
-
+text-align: center;
 }
 
+#minha_foto{
+    margin-top: 110px;
+    margin-left: 6px;
+    position: fixed;
+    height: 100px;
+    width: 100px;
+}
