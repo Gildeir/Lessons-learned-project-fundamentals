@@ -4,7 +4,7 @@ body{
     margin:auto
 }
 
-#cabeçalho{
+#cabecalho{
     background-color: green;
     position: fixed;
     top: 0px;
@@ -18,7 +18,19 @@ text-align: center;
 #minha_foto{
     margin-top: 110px;
     margin-left: 6px;
-    position: fixed;
+    position:unset
     height: 100px;
     width: 100px;
+    display: block;
+       
+}
+
+
+
+#licoes_aprendidas{
+
+}
+
+#licoes_a_aprender{
+
 }
