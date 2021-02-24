@@ -1,4 +1,7 @@
 
+
+
+
 body{
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
@@ -24,6 +27,7 @@ text-align: center;
 
 h2,h3,h4{
     color: rgb(1, 88, 1);
+    text-align: left;
 }
 
 #minha_foto{
@@ -113,10 +117,10 @@ h2,h3,h4{
 
    .trybe{
        background-color: rgba(0, 128, 0, 0.466);
-   }     
-  
-
-footer{
+   }
+   
+   
+   footer{
     
     background-color:rgba(128, 128, 128, 0.349);
     color: black;
@@ -128,7 +132,32 @@ footer{
     padding: 1px 1px;
     width: 100%;
     margin-top:30px;
-
-   
-
 }
+
+.aprendizado{
+    padding: 30px 30px 30px 30px;
+    width: 100%;
+    margin: auto;
+    display: inline;
+        
+    }
+   
+   .lado-esquerdo{
+       width: 50%;
+       padding: 30px 40px;
+       display: inline-block;
+             
+             
+   }
+
+   .lado-direito{
+       width: 30%;
+       display: inline-block
+      
+              
+   }
+   .lado-direito aside{
+    float: left;
+    margin-top: auto;
+       
+   }
