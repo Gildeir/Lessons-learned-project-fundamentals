@@ -15,6 +15,7 @@ body{
     top: 0px;
     width: 100%;
     border-radius: 8pt;
+    bottom: auto;
 }
 
 #titulo{
@@ -26,17 +27,16 @@ h2,h3,h4{
 }
 
 #minha_foto{
-    margin-top: 15%;
+
+    margin-top: 10%;
     position:unset;
     height: 150px;
     width: 150px;
-    border-radius: 8px;
-    
-       
+    border-radius: 8px;       
 }
 
-a:link{
-    background-color: rgb(3, 106, 114);
+.link{
+    background-color: rgb(2, 119, 2);
     color: white;
     padding: :14px 25px;
     text-align:center;
@@ -47,9 +47,9 @@ a:link{
     margin-top:20px;
 }
 
-a:hover{
-    background-color: rgb(2, 77, 2);
-    color: white;
+.link:hover{
+    background-color: rgb(2, 109, 68));
+    color: rgb(2, 59, 2);
 }
 
 #licoes_aprendidas{
@@ -60,10 +60,18 @@ a:hover{
 
 }
 
-.nave-style ul{
+.nave-style li{
+    top:80px;
+    position:relative;
+    background-color: rgb(2, 119, 2);
+    list-style-type: none;
+    text-align:center;    
+    display:inline-block;
+    border-radius: 8px;
+    padding:10px;
+    margin-top:20px;
+    
 
-    position:unset;
-    display: inline-block;    
 }
 
 .table,th, td{
@@ -110,7 +118,17 @@ a:hover{
 
 footer{
     
-    background-color: green; 
+    background-color:rgba(128, 128, 128, 0.349);
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    text-align:left;
+    text-decoration:none;
+    display:block;
+    padding: 1px 1px;
     width: 100%;
-    height: 25px;
+    margin-top:30px;
+
+   
+
 }
