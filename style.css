@@ -29,7 +29,6 @@ h4 {
 }
 
 #minha_foto {
-
   margin-top: 10%;
   position: unset;
   height: 150px;
@@ -50,8 +49,8 @@ h4 {
 }
 
 .link:hover {
-  background-color: rgb(2, 109, 68));
-  color: rgb(2, 59, 2);
+  background-color: rgb(2, 109, 68)
+  color: rgb(2, 59, 2)
 }
 
 #licoes_aprendidas {
@@ -59,7 +58,6 @@ h4 {
   padding: 30px 40px;
   display: inline-block;
   vertical-align: top;
-
 }
 
 #licoes_a_aprender {
@@ -67,7 +65,6 @@ h4 {
   padding: 30px 40px;
   display: inline-block;
   vertical-align: top;
-
 }
 
 .nave-style li {
@@ -80,8 +77,6 @@ h4 {
   border-radius: 8px;
   padding: 10px;
   margin-top: 20px;
-
-
 }
 
 .table,
@@ -107,8 +102,6 @@ table {
   width: 60%;
   border-radius: 8pt;
   border-style: outset;
-
-
 }
 
 h1 {
@@ -130,7 +123,6 @@ h4 {
 
 
 footer {
-
   background-color: rgba(128, 128, 128, 0.349);
   color: black;
   font-size: 15px;
@@ -149,7 +141,6 @@ footer {
   margin: auto;
   display: inline-block;
   vertical-align: top;
-
 }
 
 .lado-esquerdo {
@@ -157,8 +148,6 @@ footer {
   padding: 30px 40px;
   display: inline-block;
   vertical-align: top;
-
-
 }
 
 .lado-direito {
@@ -166,12 +155,8 @@ footer {
   padding: 30px 40px;
   display: inline-block;
   vertical-align: top;
-
-
 }
 
 .lado-direito aside {
-
   vertical-align: top;
-
 }
