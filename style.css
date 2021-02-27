@@ -9,7 +9,7 @@ body {
 }
 
 #cabecalho {
-  top: 0px;
+  top: 0 px;
   background-color: green;
   position: fixed;
   width: 100%;
@@ -65,7 +65,7 @@ h2 , h3 , h4 {
 }
 
 .nave-style li {
-  top: 75px;
+  top: 95px;
   position: relative;
   background-color: rgb(2, 119, 2);
   list-style-type: none;
