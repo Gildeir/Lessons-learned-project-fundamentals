@@ -11,7 +11,6 @@ body {
 #cabecalho {
   background-color: green;
   position: fixed;
-  top: 0px;
   width: 100%;
   border-radius: 8pt;
   bottom: auto;
@@ -21,9 +20,7 @@ body {
   text-align: center;
 }
 
-h2,
-h3,
-h4 {
+h2 , h3 , h4 {
   color: rgb(1, 88, 1);
   text-align: left;
 }
@@ -44,13 +41,12 @@ h4 {
   text-decoration: none;
   display: inline-block;
   border-radius: 8px;
-  padding: 10px;
   margin-top: 20px;
 }
 
 .link:hover {
-  background-color: rgb(2, 109, 68)
-  color: rgb(2, 59, 2)
+  background-color: rgb(2, 109, 68);
+  color: rgb(2, 59, 2);
 }
 
 #licoes_aprendidas {
@@ -68,7 +64,7 @@ h4 {
 }
 
 .nave-style li {
-  top: 80px;
+  top: 75px;
   position: relative;
   background-color: rgb(2, 119, 2);
   list-style-type: none;
@@ -76,12 +72,10 @@ h4 {
   display: inline-block;
   border-radius: 8px;
   padding: 10px;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
-.table,
-th,
-td {
+.table , th , td {
   border: 2px solid black;
   height: 25px;
 }
@@ -121,7 +115,6 @@ h4 {
   background-color: rgba(0, 128, 0, 0.466);
 }
 
-
 footer {
   background-color: rgba(128, 128, 128, 0.349);
   color: black;
@@ -130,13 +123,13 @@ footer {
   text-align: left;
   text-decoration: none;
   display: block;
-  padding: 1px 1px;
+  padding: 1px;
   width: 100%;
   margin-top: 30px;
 }
 
 .aprendizado {
-  padding: 30px 30px 30px 30px;
+  padding: 30px;
   width: 100%;
   margin: auto;
   display: inline-block;
